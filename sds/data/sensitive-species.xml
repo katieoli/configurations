@@ -746,11 +746,6 @@
   <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
 </instances>
 </sensitiveSpecies>
-<sensitiveSpecies name="Dugong dugon" family="Dugongidae" guid="NHMSYS0000376604" rank="SPECIES" commonName="">
-<instances>
-  <conservationInstance category="" authority="Manx Biological Recording Partnership" dataResourceId="dr1536" generalisation="10km" zone="Isle of Man"/>
-</instances>
-</sensitiveSpecies>
 <sensitiveSpecies name="Eptesicus bottae" family="Vespertilionidae" guid="NHMSYS0000376626" rank="SPECIES" commonName="">
 <instances>
   <conservationInstance category="" authority="Scottish Natural Heritage" dataResourceId="dr52" generalisation="1km" zone="Scotland"/>
